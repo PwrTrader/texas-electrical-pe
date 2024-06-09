@@ -1,0 +1,12 @@
+[project]
+name = 'texas_electrical_pe'  # Changed from texas-electrical-pe to texas_electrical_pe
+version = '0.1.0'
+description = 'Material for the Texas Electrical PE'
+authors = [{name="Cory Carswell", email="carswell.cory@gmail.com"}]
+keywords = ['texas electrical pe']
+dependencies = [
+    # If you need to install external libraries, list them here.
+]
+
+[tool.setuptools]
+# Since there are no custom packages, this field can be omitted or left empty
